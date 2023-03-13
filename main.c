@@ -1,6 +1,6 @@
 #include "DS.h"
 #include <stdlib.h>
-
+// 
 int main()
 {
         /* Tree үүсгэн, эхлүүлэх */
